@@ -61,8 +61,8 @@ void knapsack(int weights[], int values[], int n, int capacity)
 
 int main()
 {
-    int weights[] = {1, 1, 3, 4}; //guitarra en diferentes posiciones
-    int values[] = {1500, 1500, 2000, 3500}; //valores segun la tabla
+    int weights[] = {1, 1, 3, 4};            // guitarra en diferentes posiciones
+    int values[] = {1500, 1500, 2000, 3500}; // valores segun la tabla
     int n = 4;
 
     printf("Problema de la Mochila\n");
